@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/c41ab707-ce52-4b6b-8868-643121e96a59)
 
-Notas: 
+### Notas: 
 - se recomienda usar un potenciometro de 100k;
 - el GND del sensor corresponde al cable negro;
 - el Vcc del sensor corresponde al cable rojo;
