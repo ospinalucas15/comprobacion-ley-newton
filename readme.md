@@ -133,3 +133,5 @@ $$
 - Invirtiendo el cálculo y comprobando que $h_{\mathrm{eff}}$ tenga sentido físico, validamos la coherencia de los $k$.
 - Estos $k_{\mathrm{teórico}}$ servirán como referencia para comparar y cuantificar las mediciones experimentales.
 
+## 7. Referencias
+[1] OpenAI o4-mini, “Cálculo de las constantes teóricas de enfriamiento,” conversación con el usuario, 18 Jun. 2025.
