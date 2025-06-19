@@ -1,3 +1,11 @@
+# Esquemático del circuito
+
+Notas: 
+- se recomienda usar un potenciometro de 100k;
+- el GND del sensor corresponde al cable negro;
+- el Vcc del sensor corresponde al cable rojo;
+- el DQ del sensor corresponde al cable amarillo
+
 # Cálculo de las constantes teóricas de enfriamiento
 
 A continuación se detalla el cálculo de los valores de `kₜₑₒᵣᵢcₒ` para cada uno de los tres recipientes (vidrio, plástico y aluminio), partiendo de los parámetros geométricos y físicos del sistema y sin considerar previamente los errores experimentales.
